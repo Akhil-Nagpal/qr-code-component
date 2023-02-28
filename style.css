@@ -57,7 +57,7 @@ body {
 .card {
 	background-color: hsl(0, 0%, 100%);
 	width: 20rem;
-	height: 30rem;
+	height: 31rem;
 	border-radius: 15px;
 	box-shadow: 0 10px 50px 1px rgba(0, 0, 0, 0.096);
 }
@@ -72,11 +72,11 @@ body {
 	width: auto;
 }
 .card-text h1 {
-	font-size: 20px;
+	font-size: 21px;
 	font-weight: 700;
 	color: hsl(218, 44%, 22%);
-	margin: 0 1rem;
-	line-height: 1.8rem;
+	margin: 0 1.8rem;
+	line-height: 1.6rem;
 	text-align: center;
 }
 .card-text p {
@@ -84,8 +84,8 @@ body {
 	font-weight: 400;
 	color: hsl(220, 15%, 55%);
 	text-align: center;
-	margin: 0.8rem 1.5rem;
-	line-height: 1.4rem;
+	margin: 1.1rem 1.5rem;
+	line-height: 1.2rem;
 }
 .attribution {
 	position: absolute;
