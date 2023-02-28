@@ -58,7 +58,7 @@ body {
 .card {
 	background-color: hsl(0, 0%, 100%);
 	width: 16.5rem;
-	padding: 1rem;
+	padding: 1.1rem;
 	border-radius: 15px;
 	box-shadow: 0 10px 50px 1px rgba(0, 0, 0, 0.096);
 
