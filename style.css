@@ -43,11 +43,10 @@ table {
 	border-spacing: 0;
 }
 
-/* Editable CSS */
+/*--------Editable CSS-------*/
 body {
 	background-color: hsl(212, 45%, 89%);
 	font-family: 'Outfit', sans-serif;
-	max-width: 1440px;
 }
 .container {
 	display: flex;
@@ -58,33 +57,33 @@ body {
 .card {
 	background-color: hsl(0, 0%, 100%);
 	width: 16.5rem;
-	padding: 1.1rem;
+	padding: 1rem;
 	border-radius: 15px;
 	box-shadow: 0 10px 50px 1px rgba(0, 0, 0, 0.096);
-
 }
 .card-img img {
 	width: 16.5rem;
 	height: 16.5rem;
 	border-radius: 10px;
+	margin-bottom: 1rem;
 }
 .card-text {
 	width: auto;
 }
 .card-text h1 {
-	font-size: 20px;
+	font-size: 20.2px;
 	font-weight: 700;
 	color: hsl(218, 44%, 22%);
-	margin: 1.3rem 1.1rem;
-	line-height: 1.5rem;
+	margin: 1.1rem 1.1rem;
+	line-height: 1.8rem;
 }
 .card-text p {
 	font-size: 15px;
 	font-weight: 400;
 	color: hsl(220, 15%, 55%);
 	text-align: center;
-	margin-bottom: 1.1rem;
-	line-height: 1.2rem;
+	margin: 1rem 0;
+	line-height: 1.4rem;
 }
 .attribution {
 	position: absolute;
